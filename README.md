@@ -3,8 +3,9 @@
 ##  Algoritmos (ReactJS & Vite)
 
 #### Descripción
-<p>Interfaz de usuario que implementa tres algoritmos 'Sucesion Fibonacci, Nuermos primos y numero triangular' unidos en una sola formula la cual tiene como objetivo probar la logica y realizar pruebas unitarias</p>
+<p>Interfaz de usuario que implementa tres algoritmos 'Sucesion Fibonacci, Numeros primos y Numero triangular' unidos en una sola formula la cual tiene como objetivo probar la logica y realizar pruebas unitarias</p>
 
+<img width="200" alt="Formula" src="https://github.com/user-attachments/assets/37f8e337-563a-40fe-a976-a9e9c0353136">
 
 #### Estado del Proyecto
 + Finalizado 
@@ -89,8 +90,8 @@ npm install --save-dev jest babel-jest @babel/preset-env @babel/preset-react
 npm test
 ```
 
-#### Con esta guía, otros desarrolladores podrán ejecutar el proyecto y las pruebas sin complicaciones. ¡Avísame si necesitas más ayuda!
-
 #### Capturas de pantalla
+
+<img width="300" alt="PreviewDesktopForm" src="https://github.com/user-attachments/assets/318690b8-53db-4fe2-8a0b-6cf4c432d775">
 
 #### Licencia (MIT License)
